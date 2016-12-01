@@ -1,0 +1,21 @@
+body {
+	font-family: georgia, serif;
+	font-size: 12pt;
+}
+
+p {
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 24pt;
+	margin-bottom: 0pt;
+}
+
+ol {
+	list-style-type: decimal;
+	display: block;
+	margin-top: 6pt;
+}
+
+li {
+	display: list-item;
+}
